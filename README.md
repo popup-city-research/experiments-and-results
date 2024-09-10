@@ -36,3 +36,24 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Dates**:  
 **Retro article**: 
 **Extra**:  
+
+---
+
+### Zupass
+**Experiment TLDR**:  
+**Popup city**:  
+**Dates**:  
+**Retro article**: 
+**Extra**: (for docs, extra context etc) 
+
+---
+
+### LottoPGF
+**Experiment TLDR**:  
+**Popup city**:  
+**Dates**:  
+**Retro article**: 
+**Extra**: (for docs, extra context etc) 
+
+---
+
