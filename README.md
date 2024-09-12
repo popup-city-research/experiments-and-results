@@ -84,7 +84,7 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Popup city**:  
 **Dates**:  
 **Retro article**: 
-**Extra**: (for docs, extra context etc) 
+**Extra**: (for docs, extra context etc)  
 (note from chance: in process of reaching out to the founder of the biolab and seeing if there's any retro on this and if not, to try to ensure there is one written)  
 
 ---
@@ -93,7 +93,7 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Experiment TLDR**: 
 **Popup city**:  
 **Dates**:  
-**Retro article**: 
+**Retro article**:  
 **Extra**: (for docs, extra context etc) 
 
 ---
@@ -103,7 +103,7 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Popup city**:  
 **Dates**:  
 **Retro article**: 
-**Extra**: (for docs, extra context etc)  
+**Extra**: (for docs, extra context etc)   
 (note from chance: I'll add more and links to this soon)
 
 ---
