@@ -36,7 +36,8 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Popup city**:  
 **Dates**:  
 **Retro article**: 
-**Extra**:  
+**Extra**:   
+(note from chance: message sent)   
 
 ---
 
@@ -54,7 +55,8 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Popup city**:  
 **Dates**:  
 **Retro article**: 
-**Extra**: (for docs, extra context etc) 
+**Extra**: (for docs, extra context etc)  
+(note from chance: there were some great experiments of LottoPGF at ZuVillage Georgia. I've reached out to Nico one of the founders to see if anything has been written about it and if not to softly nudge to try to get a retro done)  
 
 ---
 
@@ -67,4 +69,42 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 
 ---
 
+### Aleph longterm Hub
+**Experiment TLDR**: Find a venue to rent long-term to solidify and support the Crecimiento movement.  
+**Popup city**:  
+**Dates**:  
+**Retro article**: 
+**Extra**: (for docs, extra context etc) 
+(note from chance: currently looking into best person to talk to try to ensure this experiment is best logged)   
+
+---
+
+### Biolab during Vitalia
+**Experiment TLDR**: 
+**Popup city**:  
+**Dates**:  
+**Retro article**: 
+**Extra**: (for docs, extra context etc) 
+(note from chance: in process of reaching out to the founder of the biolab and seeing if there's any retro on this and if not, to try to ensure there is one written)  
+
+---
+
+### HubDAO
+**Experiment TLDR**: 
+**Popup city**:  
+**Dates**:  
+**Retro article**: 
+**Extra**: (for docs, extra context etc) 
+
+---
+
+### Fumba Town apartment raffle
+**Experiment TLDR**: 
+**Popup city**:  
+**Dates**:  
+**Retro article**: 
+**Extra**: (for docs, extra context etc)  
+(note from chance: I'll add more and links to this soon)
+
+---
 
