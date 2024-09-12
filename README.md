@@ -102,9 +102,18 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Experiment TLDR**: 
 **Popup city**:  
 **Dates**:  
-**Retro article**: 
+**Retro article**:  
 **Extra**: (for docs, extra context etc)   
 (note from chance: I'll add more and links to this soon)
 
 ---
 
+### Blockravers 
+**Experiment TLDR**: 
+**Popup city**:  
+**Dates**:  
+**Retro article**:   
+**Extra**: (for docs, extra context etc)   
+(note from chance: they definitely have lots of interesting expeirments to do)  
+
+---
