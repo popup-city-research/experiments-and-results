@@ -56,7 +56,7 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 **Dates**:  
 **Retro article**: 
 **Extra**: (for docs, extra context etc)  
-(note from chance: there were some great experiments of LottoPGF at ZuVillage Georgia. I've reached out to Nico one of the founders to see if anything has been written about it and if not to softly nudge to try to get a retro done)  
+(note from chance: Nico said he can likely get a retro finished by Sept 20)  
 
 ---
 
