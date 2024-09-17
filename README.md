@@ -32,11 +32,20 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 ---
 
 ### QuarkID
-**Experiment TLDR**:  
-**Popup city**:  
-**Dates**:  
-**Retro article**: 
-**Extra**:   
+**Experiment TLDR**:  QuarkID as digital trust framework creating Aleph's passport during the pop up city.
+**Popup city**:  Aleph
+**Dates**:  July-August 2024
+**Retro article**: QuarkID served as a digital trust framework to manage user access passports during a Pop-up City event in Buenos Aires. The goal was to create a unique and verifiable digital identity for each attendee, ensuring quick and secure access to various spaces and activities throughout the event.
+
+How did it work?
+Digital Registration: Users created their QuarkID DID (a digital identifier) blockchain-based digital identity. This process replaced the need for physical credentials or traditional documents. 
+
+Access Passport: Through their QuarkID, participants received a digital passport that allowed them to move around the temporary city, gaining access to specific zones and exclusive events by simply scanning a QR code. There w
+
+Decentralized Verification: Backed by ZK technology, the data was immutable and decentralized. This meant verification happened without intermediaries, preventing fraud and ensuring that each passport belonged to the correct person.
+
+Q passports: 2400 between holders, startups, sponsors, team and volunteers
+
 (note from chance: message sent)   
 
 ---
