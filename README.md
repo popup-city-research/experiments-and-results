@@ -110,6 +110,7 @@ https://mirror.xyz/lottopgf.eth/Nk4wyeBdjLZL4GdNLB2GcsLTi-W2lHR1CwrE7WDLY0o
 **Dates**:  
 **Retro article**:  
 **Extra**: (for docs, extra context etc) 
+- [On concept of Hubs](https://hub.eudaform.org/)  
 
 ---
 
