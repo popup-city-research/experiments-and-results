@@ -32,21 +32,23 @@ The ∈dges experiment at Edge Esmeralda was a community currency trial designed
 ---
 
 ### QuarkID
-**Experiment TLDR**:  QuarkID as digital trust framework creating Aleph's passport during the pop up city.
-**Popup city**:  Aleph
-**Dates**:  July-August 2024
-**Retro article**: QuarkID served as a digital trust framework to manage user access passports during a Pop-up City event in Buenos Aires. The goal was to create a unique and verifiable digital identity for each attendee, ensuring quick and secure access to various spaces and activities throughout the event.
+**Experiment TLDR**:  
+QuarkID as digital trust framework creating Aleph's passport during the pop up city.  
+**Popup city**: Aleph  
+**Dates**:  July-August 2024  
+**Retro article**:  
+QuarkID served as a digital trust framework to manage user access passports during a Pop-up City event in Buenos Aires. The goal was to create a unique and verifiable digital identity for each attendee, ensuring quick and secure access to various spaces and activities throughout the event.  
 
-How did it work?
-Digital Registration: Users created their QuarkID DID (a digital identifier) blockchain-based digital identity. This process replaced the need for physical credentials or traditional documents. 
+How did it work?  
+Digital Registration: Users created their QuarkID DID (a digital identifier) blockchain-based digital identity. This process replaced the need for physical credentials or traditional documents.   
 
-Access Passport: Through their QuarkID, participants received a digital passport that allowed them to move around the temporary city, gaining access to specific zones and exclusive events by simply scanning a QR code. There w
+Access Passport: Through their QuarkID, participants received a digital passport that allowed them to move around the temporary city, gaining access to specific zones and exclusive events by simply scanning a QR code. There w  
 
-Decentralized Verification: Backed by ZK technology, the data was immutable and decentralized. This meant verification happened without intermediaries, preventing fraud and ensuring that each passport belonged to the correct person.
+Decentralized Verification: Backed by ZK technology, the data was immutable and decentralized. This meant verification happened without intermediaries, preventing fraud and ensuring that each passport belonged to the correct person.  
 
-Q passports: 2400 between holders, startups, sponsors, team and volunteers
+Q passports: 2400 between holders, startups, sponsors, team and volunteers  
 
-(note from chance: message sent)   
+(added by )   
 
 ---
 
@@ -61,11 +63,15 @@ Q passports: 2400 between holders, startups, sponsors, team and volunteers
 
 ### LottoPGF
 **Experiment TLDR**:  
+3 experiments on how lotteries can help fund common goods at ZuVillage Georgia. ~700 USD was raised to fund a hackathon prize, community dinners and food + vet for our rescued and adopted kitty Zuzi G.  
 **Popup city**:  
-**Dates**:  
-**Retro article**: 
+ZuVillage Georgia  
+**Dates**:   
+July 30th - August 30th 2024  
+**Retro article**:  
+https://mirror.xyz/lottopgf.eth/Nk4wyeBdjLZL4GdNLB2GcsLTi-W2lHR1CwrE7WDLY0o  
 **Extra**: (for docs, extra context etc)  
-(note from chance: Nico said he can likely get a retro finished by Sept 20)  
+(note from chance: Nico filled this out and send via DM)
 
 ---
 
