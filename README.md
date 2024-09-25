@@ -98,9 +98,11 @@ https://mirror.xyz/lottopgf.eth/Nk4wyeBdjLZL4GdNLB2GcsLTi-W2lHR1CwrE7WDLY0o
 **Experiment TLDR**: 
 **Popup city**:  
 **Dates**:  
-**Retro article**: 
+**Retro article**:  
+(note from chance: Cassox said he's up for writing a retrospective! will add when ready)  
 **Extra**: (for docs, extra context etc)  
-(note from chance: in process of reaching out to the founder of the biolab and seeing if there's any retro on this and if not, to try to ensure there is one written)  
+[Video that goes into some motivations for the lab](https://symbiontlabs.io/blogs/news/motivations-for-symbiont-labs)   
+ 
 
 ---
 
