@@ -143,4 +143,6 @@ To add, from Maia (did experiments at Vitalia)
 
 ---
 
+to add, myco's telegram bot from Vitalia (h/t Zoe for helping me connect with him!)
 
+---
