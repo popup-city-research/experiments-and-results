@@ -135,3 +135,12 @@ https://mirror.xyz/lottopgf.eth/Nk4wyeBdjLZL4GdNLB2GcsLTi-W2lHR1CwrE7WDLY0o
 (note from chance: they definitely have lots of interesting expeirments to do)  
 
 ---
+
+
+---
+To add, from Maia (did experiments at Vitalia) 
+"I’ve been running science experiments — here’s one I did at Vitalia https://www.cosimoresearch.com/posts/human-pheromones-part-1-vabbing"
+
+---
+
+
