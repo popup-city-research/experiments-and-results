@@ -143,6 +143,11 @@ To add, from Maia (did experiments at Vitalia)
 
 ---
 
+Jakob's vertical tower project  
+https://shrub-step-635.notion.site/Frontier-Tower-SF-berlinhouse-com-1138b4aa56038070b58ac88bcd20ed2f
+
+---
+
 to add, myco's telegram bot from Vitalia (h/t Zoe for helping me connect with him!)
 
 ---
