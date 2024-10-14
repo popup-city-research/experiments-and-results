@@ -148,6 +148,14 @@ https://shrub-step-635.notion.site/Frontier-Tower-SF-berlinhouse-com-1138b4aa560
 
 ---
 
+network nations workshops   
+
+---
+
+
+
+---
+
 to add, myco's telegram bot from Vitalia (h/t Zoe for helping me connect with him!)
 
 ---
