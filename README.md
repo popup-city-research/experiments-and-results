@@ -163,3 +163,7 @@ to add, myco's telegram bot from Vitalia (h/t Zoe for helping me connect with hi
 biohackers DAO that emerged as an experiment from Vitalia 
 
 ---
+
+the creation of pods (learnings from experimentation re: 0xParc   
+
+---
