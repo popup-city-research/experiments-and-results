@@ -21,6 +21,14 @@ Note: the goal at first is to do an absolute brain dump of everything here and t
 
 ---
 
+**Experiment TLDR**: ICC
+**Popup city**:  Infinita City
+**Dates**:  February
+**Retro article**:   
+**Extra**: (for docs, extra context etc) Niklas saw morfi at Aleph and brought it back to Infinita City. 
+
+---
+
 ### Edges
 **Experiment TLDR**:  
 The ∈dges experiment at Edge Esmeralda was a community currency trial designed to keep value circulating within the pop-up village by taxing external exchanges, thereby incentivizing collaboration and strengthening local social credit networks.  
